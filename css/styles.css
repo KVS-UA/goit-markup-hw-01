@@ -1,0 +1,39 @@
+:root{
+--primary-text-color:;
+--title-text-color
+}
+
+.site-nav .link{
+    color: var(--accent-color);
+}
+
+.site-nav .link:hover,
+.site-nav .link:focus{
+    color: var(--title-text-color);
+}
+
+.site-nav .link:current
+
+
+/* Hero */
+
+
+
+
+
+
+
+/* Button */
+.button{
+    color: var(--title-text-color);
+    background-color:var()
+}
+.button-primary{
+color: var();
+background-color: var();
+}
+.button-secondary{
+color: var();
+background-color: var();
+}
+
